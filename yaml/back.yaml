@@ -1,4 +1,5 @@
 %YAML:1.0
+# project_matrix.empty(),注释所有属性+本身
 ---
 camera_matrix: !!opencv-matrix
    rows: 3
