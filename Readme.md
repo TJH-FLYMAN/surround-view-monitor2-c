@@ -1,9 +1,8 @@
 一份简单的环视系统制作实现，包含完整的标定、投影、拼接和实时运行流程  
 author: jinghui.tang  
-date: 2023/10/15
-eamil：tjh19980918@163.com
-
-参考：**[环视360全景拼接C++代码](https://github.com/hynpu/surround-view-system-introduction)**
+date: 2023/10/15  
+eamil：tjh19980918@163.com  
+参考：**[环视360全景拼接C++代码](https://github.com/hynpu/surround-view-system-introduction)**  
 **[ADAS-开源环视360全景拼接代码原理分析与实现](https://mp.weixin.qq.com/s?__biz=MzkzNjQ0NDMyMg==&mid=2247483912&idx=1&sn=cc456edd073e8e8e791b361b843ce099&chksm=c29feac5f5e863d355745c433eeb28f10fb77acc96801ba377ba9e02207cfda0dc61b00dd18c&token=201619039&lang=zh_CN#rd)**
 ## doc
 张正友标定论文以及推导流程参考 ./doc/张正友标定.pdf  
